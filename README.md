@@ -5,7 +5,7 @@
 
 🌍 Based in Cairo, Egypt  
 📧 josephadel404@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/joseph-adel-b17) • [GitHub](https://github.com/josephadel25) • [HackerRank](https://www.hackerrank.com/josephadel404)
+🔗 [LinkedIn](https://www.linkedin.com/in/josephadel1) • [GitHub](https://github.com/josephadel25) • [HackerRank](https://www.hackerrank.com/josephadel404)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 🏆 Achievements & Activity
 
-- 🥇 Solved 100+ Python & AI problems on HackerRank  
+- 🥇 Solved 50+ Python & AI problems on HackerRank  
 - 💻 Regular contributor to open-source AI and optimization tools  
 - 📚 Actively building a full AI portfolio with clean, documented projects
 
