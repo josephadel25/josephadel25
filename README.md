@@ -38,7 +38,7 @@ Neural Networks, Evolutionary Algorithms, NLP, Transformers, CNNs, Game Theory
 ## 📫 Connect with me
 
 - 📧 Email: josephadel404@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/joseph-adel-b17b7725a](https://www.linkedin.com/in/joseph-adel-b17b7725a)  
+- 💼 LinkedIn: [linkedin.com/in/joseph-adel-b17b7725a](https://www.linkedin.com/in/josephadel1)  
 - 🧑‍💻 GitHub: [github.com/josephadel25](https://github.com/josephadel25)
 
 ---
