@@ -8,7 +8,7 @@
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
-<div align="center">
+
 <p align="center">
 🎓 Artificial Intelligence Student at Helwan University  
 <br>
