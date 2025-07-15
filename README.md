@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Joseph+Adel+👋;AI+Student+%7C+ML+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder GIF" />
-</p>
+<div align="center">
+
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
