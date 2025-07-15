@@ -1,6 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
-<div align="center">
 
 
 <!-- ⌨️ Typing Animation -->
@@ -8,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Joseph+Adel;AI+Student+%7C+ML+Enthusiast+%7C+Open+to+Internships;Building+Smart+Things+with+Code&center=true&width=750&height=45&font=Fira+Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
+<div align="center">
 <p align="center">
 🎓 Artificial Intelligence Student at Helwan University  
 <br>
