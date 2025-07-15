@@ -1,7 +1,3 @@
-<!-- 🎨 Optional Banner -->
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Joseph Adel Banner" />
-</p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
