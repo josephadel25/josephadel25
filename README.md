@@ -1,3 +1,12 @@
+<!-- 🔥 Custom Animated Intro -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+My+GitHub!;I'm+Joseph+Adel+👨‍💻;AI+Student+%7C+ML+Developer+%7C+Tech+Explorer&center=true&width=750&height=45&font=Fira+Code&pause=1000&color=F77F00&vCenter=true&size=24" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
