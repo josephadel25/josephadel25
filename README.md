@@ -10,11 +10,10 @@
 
 
 <p align="center">
-🎓 Artificial Intelligence Student at Helwan University  
+🎓 Artificial Intelligence Student at Helwan University  
 <br>
-GPA: <strong>3.5 / 4.0</strong> | Passionate about Machine Learning, Deep Learning & Evolutionary Algorithms  
+🌟 Passionately exploring the depths of **Machine Learning, Deep Learning, and Evolutionary Algorithms**.
 </p>
-
 ---
 
 ## 🧠 About Me
