@@ -10,9 +10,9 @@
 
 
 <p align="center">
-🎓 Artificial Intelligence Student at Helwan University  
-<br>
-🌟 Passionately exploring the depths of **Machine Learning, Deep Learning, and Evolutionary Algorithms**.
+🎓 Artificial Intelligence Student at Helwan University  
+<br>  
+🌟 Passionately exploring the depths of <b>Machine Learning, Deep Learning, and Evolutionary Algorithms</b>.
 </p>
 
 ---
