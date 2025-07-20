@@ -101,10 +101,6 @@
 ---
 
 <p align="center"><i>“Code what you dream. Learn what you fear. Build what matters.”</i></p>
-<!-- 🌟 Thanks Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"><br>
-  <b style="font-size:20px; color:#00E1FF;">Thanks for stopping by!</b><br>
-  <i style="color:gray;">"Stay curious. Keep building. See you around!"</i>
-</p>
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
+<p align="center"><i>May your code be clean and your models accurate.</i></p>
 
