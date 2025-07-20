@@ -101,4 +101,8 @@
 ---
 
 <p align="center"><i>“Code what you dream. Learn what you fear. Build what matters.”</i></p>
-<p align="center">🌟 Thanks for visiting! 🌟</p>
+<!-- 🌟 Thanks Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+or+explore+more🚀;Happy+coding!+💻✨&center=true&width=800&height=45&font=Fira+Code&pause=1000&color=00E1FF&vCenter=true&size=24" alt="Thank You Typing SVG" />
+</p>
+
