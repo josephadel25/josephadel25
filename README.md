@@ -7,7 +7,8 @@
 </p>
 
 
-<h1 align="center">⚡ Hey there, I'm Joseph Adel</h1>
+<h1 align="center" style="color:#00E1FF;">Hey there 👋, I'm Joseph Adel</h1>
+
 
 <p align="center">
 🎓 <b>AI Student</b> at Helwan University  
