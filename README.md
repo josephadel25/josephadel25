@@ -5,10 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Joseph+Adel;AI+Student+%7C+ML+Enthusiast+%7C+Open+to+Internships;Building+Smart+Things+with+Code&center=true&width=750&height=45&font=Fira+Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG" />
 </p>
-<!-- 🎥 Intro GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN3Z3puZ3Y5ZzVoOG1sdmU3dWdpbXlmYmY3YWdsczRmejlpZ2VhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/giphy.gif" alt="Coding GIF" width="600" />
-</p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
@@ -17,6 +13,10 @@
 🎓 Artificial Intelligence Student at Helwan University  
 <br>  
 🌟 Passionately exploring the depths of <b>Machine Learning, Deep Learning, and Evolutionary Algorithms</b>.
+</p>
+<!-- 🎥 Intro GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN3Z3puZ3Y5ZzVoOG1sdmU3dWdpbXlmYmY3YWdsczRmejlpZ2VhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/giphy.gif" alt="Coding GIF" width="600" />
 </p>
 
 ---
