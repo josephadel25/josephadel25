@@ -3,8 +3,9 @@
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Joseph+Adel;AI+Student+%7C+ML+Enthusiast+%7C+Open+to+Internships;Building+Smart+Things+with+Code&center=true&width=750&height=45&font=Fira+Code&pause=1000&color=F77F00&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Joseph+Adel;AI+Student+%7C+ML+Enthusiast+%7C+Open+to+Internships;Building+Smart+Things+with+Code&center=true&width=750&height=45&font=Fira+Code&pause=1000&color=00E1FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
 
