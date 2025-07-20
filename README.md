@@ -101,6 +101,5 @@
 </p>
 
 <p align="center">
-  <strong>✨ Thanks for visiting! ✨</strong><br>
-  <em>Feel free to connect — let's create something amazing together.</em>
+  <img src="https://readme-typing-svg.demolab.com?lines=✨+Thanks+for+visiting!+✨&center=true&width=700&height=45&font=Fira+Code&pause=1000&color=00E1FF&vCenter=true&size=24" alt="Thanks" />
 </p>
