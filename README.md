@@ -7,14 +7,14 @@
 </p>
 
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#f77f00;">Joseph Adel</span></h1>
-
+<h1 align="center">⚡ Hey there, I'm Joseph Adel</h1>
 
 <p align="center">
-🎓 Artificial Intelligence Student at Helwan University  
+🎓 <b>AI Student</b> at Helwan University  
 <br>  
-🌟 Passionately exploring the depths of <b>Machine Learning, Deep Learning, and Evolutionary Algorithms</b>.
+🌌 Passionately exploring <b>Machine Learning, Deep Learning, and Evolutionary Algorithms</b>
 </p>
+
 <!-- 🎥 Full Width Intro GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN3Z3puZ3Y5ZzVoOG1sdmU3dWdpbXlmYmY3YWdsczRmejlpZ2VhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/giphy.gif" alt="Coding GIF" style="width:100%; height:auto;" />
