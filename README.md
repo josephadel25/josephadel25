@@ -100,15 +100,11 @@
 
 ---
 
-<!-- ✨ Closing Message -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting!;Happy+Coding!+🚀;Let's+connect+and+build+cool+stuff!&center=true&width=700&height=45&font=Fira+Code&pause=1000&color=00E1FF&vCenter=true&size=24" alt="Thanks Typing Animation" />
-</p>
-
 <p align="center">
   <strong><em>“Code what you dream. Learn what you fear. Build what matters.”</em></strong>
 </p>
 
 <p align="center">
-  <strong>🖤 — Joseph Adel</strong>
+  <strong>✨ Thanks for visiting! ✨</strong><br>
+  <em>Feel free to connect — let's create something amazing together.</em>
 </p>
