@@ -95,3 +95,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <strong><em>“Code what you dream. Learn what you fear. Build what matters.”</em></strong>
+</p>
+
+<p align="center">
+  <strong>✨ Thanks for visiting! ✨</strong><br>
+  <em>Feel free to connect — let's create something amazing together.</em>
+</p>
+
