@@ -28,7 +28,7 @@
 - 🛠️ Proficient in **Python, SQL, Pandas, NumPy, and Scikit-learn** for end-to-end data workflows  
 - 📚 Constantly learning advanced topics in **deep learning, NLP, and big data analytics**  
 - 🌍 Open to opportunities in **data science, analytics, and machine learning projects**
-- 
+
 ---
 
 ## 🚀 Featured Projects
