@@ -20,14 +20,15 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-- 🤖 AI enthusiast driven by curiosity and impact  
-- 🔬 Love working on computer vision, neural networks, and optimization  
-- 🚀 Blending research with real-world applications  
-- 📚 Lifelong learner, currently diving into advanced ML topics  
-- 🌍 Open to internships, research opportunities, and collaborations  
-
+- 📊 Aspiring **Data Scientist** with strong foundations in **data analysis, statistics, and machine learning**  
+- 🔍 Skilled in **data cleaning, visualization, and exploratory analysis** to uncover insights and drive decisions  
+- 🤖 Experienced in applying **machine learning models** for prediction, classification, and optimization  
+- 🛠️ Proficient in **Python, SQL, Pandas, NumPy, and Scikit-learn** for end-to-end data workflows  
+- 📚 Constantly learning advanced topics in **deep learning, NLP, and big data analytics**  
+- 🌍 Open to opportunities in **data science, analytics, and machine learning projects**
+- 
 ---
 
 ## 🚀 Featured Projects
