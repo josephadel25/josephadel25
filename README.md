@@ -14,7 +14,7 @@
 <p align="center"><strong>🌌 Exploring Machine Learning, Deep Learning & Evolutionary Algorithms</strong></p>
 <!-- 🎥 Full Width Intro GIF -->
 <p align="center">
-  <img src="cardarkGIF-ezgif.com-resize.gif" alt="Coding GIF" style="width:150%; height:auto;" />
+  <img src="cardarkGIF-ezgif.com-resize.gif" alt="Coding GIF" style="width:100%; height:auto;" />
 </p>
 
 
